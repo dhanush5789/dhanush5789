@@ -2,9 +2,10 @@
 
 <a href="https://www.linkedin.com/in/dhanushkumar-g-4a55b6259/ target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-
 <a href="https://www.instagram.com/__dhanush_4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
+
+ 
 
  
 I'm currently pursuing a degree in Artificial Intelligence and Data Science at Dr. Mahalingam college of engineering and technology. I’m fascinated by Data Science and AI, especially in the areas of data analysis and visualization.
