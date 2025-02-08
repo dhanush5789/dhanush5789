@@ -11,7 +11,7 @@
 
 I'm currently pursuing a degree in Artificial Intelligence and Data Science at Dr. Mahalingam college of engineering and technology. I’m fascinated by Data Science and AI, especially in the areas of data analysis and visualization.
 
-📝 [Resume](https://drive.google.com/file/d/1GPAvldGdjWJW6SxL7OnJgNOnqav7aAdy/view?usp=drive_link).
+📝 [Resume](https://drive.google.com/file/d/1GPAvldGdjWJW6SxL7OnJgNOnqav7aAdy/view?usp=sharing).
 
 
 
